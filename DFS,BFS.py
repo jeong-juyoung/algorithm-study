@@ -29,3 +29,6 @@ def factorial_recursive(n):
 #각각의 방식으로 구현한 n! 출력 (n=5)
 print('반복적으로 구현:', factorial_iterative(5))
 print('재귀적으로 구현:', factorial_recursive(5))
+
+
+#DFS 소스코드 예제
